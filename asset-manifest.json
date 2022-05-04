@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e16e3338.css",
+    "main.js": "/static/js/main.107821a7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/comps.png": "/static/media/comps.1fa9beb6d6a338fc3b37.png",
+    "static/media/SpaceFrame.gif": "/static/media/SpaceFrame.c99651df86e6f0a45186.gif",
+    "static/media/Poster.png": "/static/media/Poster.9b0cad416ef0080a7520.png",
+    "static/media/Visualization.png": "/static/media/Visualization.a92d10d4542d9fcd71ae.png",
+    "static/media/SquidLogo.png": "/static/media/SquidLogo.537c8f2df187f8b25f99.png",
+    "static/media/Squareo.ttf": "/static/media/Squareo.e14d06e66eab78a6fe60.ttf",
+    "static/media/Square.ttf": "/static/media/Square.518e4d57f4281c4afa92.ttf",
+    "index.html": "/index.html",
+    "main.e16e3338.css.map": "/static/css/main.e16e3338.css.map",
+    "main.107821a7.js.map": "/static/js/main.107821a7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16e3338.css",
+    "static/js/main.107821a7.js"
+  ]
+}
