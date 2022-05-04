@@ -1,0 +1,26 @@
+.grid{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    /* justify-content: space-between; */
+    flex-flow: row wrap;
+    font-family: square;
+}
+
+
+@media (max-width: 400px) {
+    .grid {
+        display: block;
+        height: 100%;
+        margin: auto;
+    }
+  }
+
+.thumbnail-title{
+    font-size: 15px;
+}
+
+.thumbnail-category{
+    font-size: 13px;
+  }

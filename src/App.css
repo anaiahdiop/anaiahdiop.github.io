@@ -1,0 +1,64 @@
+  @font-face {
+	font-family: square;
+	src: url(../../assets/squarefont/Square.ttf);
+  }
+  @font-face {
+	font-family: squareo;
+	src: url(../../assets/squarefont/Squareo.ttf);
+  }
+
+body{
+	background-color: #000;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+/* 
+#header{
+	font-family: square;
+	color:white;
+	text-decoration: none;
+	font-size: 60px;
+	
+}
+
+#header:hover{
+	text-decoration: underline #ffffff;
+}
+
+
+.headImage{
+	margin-left: auto;
+  	margin-right: auto;
+	width: 75%;
+	height: 100%;
+}
+
+
+.navbar{
+	margin: auto;
+	margin-bottom: 40px;
+    margin-top: 10px;
+	width: 50%;
+	display: flex;
+	justify-content:center;
+	justify-content: space-between;
+	
+}
+a.barItem{
+    font-size: 30px;
+	color:white;
+	text-decoration: none;
+}
+
+.navbar a:hover{
+	color:#2c68df;
+	
+}
+
+.navbar .selected {
+	color:#2c68df
+}  */
+
+ 
